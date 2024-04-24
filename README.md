@@ -15,7 +15,7 @@ The Vacations Project is a web application built using React for the frontend, N
 
 1. In phpMyAdmin, click on the "Import" tab.
 
-2. Click on the "Choose File" button and select the database file from the "database" folder in the project directory.
+2. Click on the "Choose File" button and select the database file from the "Database" folder in the project directory.
 
 3. Click on the "Import" button to import the database.
 

@@ -23,12 +23,12 @@ The Vacations Project is a web application built using React for the frontend, N
 
 ### Backend:
 
-1. `npm i`
+`npm i`
 
-2. `npm start`
+`npm start`
 
 ### Frontend:
 
-1. `npm i`
+`npm i`
 
-2. `npm start`
+`npm start`

@@ -1,0 +1,38 @@
+.Home {
+    height: 100%;
+    width: 90%;
+    margin: .5rem auto;
+    padding: 1.25rem;
+    text-align: center;
+    background-image: url("../../../Assets/Images/photo-1476514525535-07fb3b4ae5f1.avif");
+    background-size: cover;
+    border-radius: .8rem;
+}
+
+.Home h1 {
+    margin-bottom: 1.25rem;
+    color: #023e8a;
+    user-select: none;
+
+}
+
+.Home div:nth-of-type(2) {
+    color: #023e8a;
+    user-select: none;
+
+}
+
+.Home div {
+    margin-bottom: 2.5rem;
+}
+
+.Home a {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bolder;
+}
+
+.Home p {
+    user-select: none;
+
+}

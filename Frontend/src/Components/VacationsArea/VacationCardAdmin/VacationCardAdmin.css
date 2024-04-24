@@ -1,0 +1,14 @@
+.VacationCardAdmin {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.VacationCardAdmin .date {
+    background-color: rgb(212, 231, 240);
+    background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
+}
+
+.VacationCardAdmin .CardBtn button {
+    width: 100%;
+}

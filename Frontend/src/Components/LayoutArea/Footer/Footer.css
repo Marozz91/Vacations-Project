@@ -1,0 +1,12 @@
+.Footer {
+    width: 100%;
+    background-color: white;
+    font-weight: 600;
+    color: #1976d2;
+    text-align: center;
+    padding: 10px;
+    background-image: url("https://www.transparenttextures.com/patterns/xv.png");
+    padding-top: 1.8rem;
+    user-select: none;
+
+}

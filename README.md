@@ -17,7 +17,7 @@ In phpMyAdmin, click on the "Import" tab.
 
 Click on the "Choose File" button and select the database file from the "database" folder in the project directory.
 
-Click on the "Go" button to import the database.
+Click on the "Import" button to import the database.
 
 ## Install Dependencies:
 

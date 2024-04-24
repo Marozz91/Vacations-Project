@@ -5,19 +5,19 @@ The Vacations Project is a web application built using React for the frontend, N
 
 ### Open the Database as Admin in XAMPP:
 
-Open XAMPP Control Panel.
+1. Open XAMPP Control Panel.
 
-Start the Apache and MySQL services if they are not already running.
+2. Start the Apache and MySQL services if they are not already running.
 
-Click on the "Admin" button next to MySQL. This will open phpMyAdmin in your browser.
+3. Click on the "Admin" button next to MySQL. This will open phpMyAdmin in your browser.
 
 ### Import the Database:
 
-In phpMyAdmin, click on the "Import" tab.
+1. In phpMyAdmin, click on the "Import" tab.
 
-Click on the "Choose File" button and select the database file from the "database" folder in the project directory.
+2. Click on the "Choose File" button and select the database file from the "database" folder in the project directory.
 
-Click on the "Import" button to import the database.
+3. Click on the "Import" button to import the database.
 
 ## Install Dependencies:
 
